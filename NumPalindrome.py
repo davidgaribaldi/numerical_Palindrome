@@ -15,7 +15,7 @@ def NumericalPalindrome(num):
         else:
             n += 1
         if n == length:
-            print('the number:', num, 'is a numerical palindrome')
+            print('the number,', num, ', is a numerical palindrome')
             
             
 input_Number = input("If you give me a number, I'll tell if you it's a palindrome: ")
